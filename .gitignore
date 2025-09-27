@@ -1,0 +1,20 @@
+# Python virtual environment files
+Include/
+Lib/
+Scripts/
+etc/
+share/
+pyvenv.cfg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS generated files
+.DS_Store
+Thumbs.db
